@@ -1,16 +1,29 @@
-# tic_tac_toe
+# 🎮 Flutter Tic Tac Toe Game  
 
-A new Flutter project.
+A modern and animated Tic Tac Toe game built with **Flutter**.  
+This project includes smooth animations, score tracking, fireworks effects when a player wins, and a beautiful glassmorphism UI.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ✅ Two-player game (X vs O)  
+- ✅ Beautiful gradient & glassmorphism UI  
+- ✅ Animated cell tap & scaling effect  
+- ✅ Fireworks celebration when a player wins 🎆  
+- ✅ Scoreboard for Player X and Player O  
+- ✅ Restart game button  
+- ✅ Reset scoreboard button  
+- ✅ Draw detection with dialog popup  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1️⃣ Prerequisites
+Make sure you have installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+- [Dart](https://dart.dev/get-dart)  
+- An editor like **VS Code** or **Android Studio**  
+
+Verify installation with:
+```bash
+flutter doctor
